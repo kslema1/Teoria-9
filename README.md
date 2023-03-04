@@ -148,5 +148,97 @@ SECCIÓN 17–8 Ancho de banda de circuitos resonantes
 
 ![image](https://user-images.githubusercontent.com/116772752/222563936-7730e39d-cff3-426d-8dae-ca8aa59e00e6.png)
 
+42.En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω.
+
+![image](https://user-images.githubusercontent.com/116772752/222931699-0700acc4-cbe6-4b87-9d31-e9637d0b0bce.png)
+
+SECCIÓN 18–1 Filtros pasabajas 2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
+
+![image](https://user-images.githubusercontent.com/116772752/222931717-2da2d45e-0273-4512-b4ad-3cc3eebe6dc1.png)
+
+4.¿Cuál es f_c para cada filtro mostrado en las siguientes figuras? Determine el voltaje de salida a f_c en cada caso cuando V_ent= 5 V.
+
+![image](https://user-images.githubusercontent.com/116772752/222931729-745240ec-9686-4530-8bdd-b55fc71ae4f7.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222931742-8b77bd1d-5c09-420b-b70b-e8ae854ff0b1.png)
+
+*6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la siguiente figura.
+
+![image](https://user-images.githubusercontent.com/116772752/222931757-5f2da718-ffe1-45bb-95f0-a9f316d9aad2.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222931764-546c0e94-cc72-40c1-b1f2-6bd588c1c732.png)
+
+8.En cada uno de los casos siguientes, exprese la relación de voltaje en dB:
+
+![image](https://user-images.githubusercontent.com/116772752/222931783-bdc2f8f7-0f08-4603-8c5c-79a38a95eba5.png)
+
+10.Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (f_c= 1 kHz):
+
+![image](https://user-images.githubusercontent.com/116772752/222931808-a4b881ab-cee4-4920-994f-a3d15ba2a435.png)
+
+SECCIÓN 18–2 Filtros pasaaltas
+
+12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
+
+![image](https://user-images.githubusercontent.com/116772752/222931830-4a5e25d4-4c19-4216-a6fd-af833267cbf8.png)
+
+14.¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a f_c en cada caso (V_ent 10 V).
+
+![image](https://user-images.githubusercontent.com/116772752/222931839-e802e6d7-70bf-4dd7-8f81-3a747e5c1e4e.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222931852-421cf8ec-8012-46b5-aa43-4de77502fe48.png)
+
+16.Determine f_c para cada una de las posiciones del interruptor en la siguiente figura.
+
+![image](https://user-images.githubusercontent.com/116772752/222931870-f1716b78-b279-411b-8b62-a33ca25112fc.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222931879-c9a118dd-e706-4bda-94f5-9b41eb3c4be2.png)
+
+SECCIÓN 18–3 Filtros pasabanda
+
+18.Suponiendo que la resistencia de devanado de las bobinas mostradas en la siguiente figura es de 10 Ω, determine el ancho de banda para cada filtro.
+
+![image](https://user-images.githubusercontent.com/116772752/222931890-4066c4c1-a710-4ba9-a17a-bfc07d4c4d7c.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222931894-8e7457cb-c543-4d74-9063-c922478fa513.png)
+
+20.Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.
+
+![image](https://user-images.githubusercontent.com/116772752/222931905-1b58913b-52a4-462d-877b-0c765e0e053b.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222931912-d7997423-7715-427a-a255-5114089d359f.png)
+
+22.Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la siguiente figura ¿Se traslapan algunas de las respuestas? Suponga que RW 0 Ω para cada bobina.
+
+![image](https://user-images.githubusercontent.com/116772752/222931932-3f55b96c-e013-49d0-a9bc-45b63f5da286.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222931946-7179e241-9d16-4f5b-8c7f-b1de1bbcca17.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222931958-7065724b-0d7a-4ce8-9f13-0c2117c97839.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222931974-1017cf28-213a-4559-be6d-54cc2c7047c3.png)
+
+SECCIÓN 18–4 Filtros Rechazabanda
+
+24. Determine la frecuencia central para cada filtro mostrado en la siguiente figura.
+
+![image](https://user-images.githubusercontent.com/116772752/222931993-94b3e590-3a05-4559-861b-e13cc03f21f6.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222932000-66604551-c506-4aae-b7e6-5e99947efb7a.png)
+
+![image](https://user-images.githubusercontent.com/116772752/222932013-d4d9e51d-8643-478b-9be9-40cdde931136.png)
+
+5. CONCLUSIÓNES
+
+• Los conceptos leídos en el capítulo 17 y 18 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el cómo aprender a calcular circuitos RLC y resonancia en serie, paralelo y serie-paralelo y también se aprendió mucho sobre los filtros pasabajas.
+
+• Después de la lectura de los capítulos 17 y 18 del libro de Floyd, se utilizó mentefactos y mapas conceptuales para resumir estos temas, ya que ayudan a ubicar la información de un manera mucho más factible y fácil de entender y así evitando el uso de párrafos grandes que complican el entendimiento del tema.
+
+• Haciendo uso de los conceptos de análisis de circuito serie, paralelo, serie-paralelo, ley de Ohm y leyes de Kirchoff en el tema de circuitos en RLC se pude resolver los problemas propuestas en el capitulo 17 y 18 del libro de Floyd ya que son temas muy complejos y abarcan la materia vista de capitulos anteriores, por lo que el entendimiento de estos temas y la practica de estos nos ayudan muchisimo para saber como resolver un problema de manera correcta como se realizo en el informe.
+
+6.BLIBIOGRAFÍA
+
+
+Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
 
 
